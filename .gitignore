@@ -1,0 +1,9 @@
+
+.idea/
+mihalcea.emnlp04.pdf
+*.txt
+*.txt.*
+*.png
+*.net
+!/src/seed_url_extraction_ejemplo_wikipedia.txt
+!/src/seed_url_extraction_ejemplo_museodelprado.txt
